@@ -1,0 +1,90 @@
+{
+  "business": {
+    "name": "Dismantle Demo Solutions",
+    "tagline": "Clean. Controlled. On Schedule.",
+    "subtitle": "Selective demolition, interior strip-outs, concrete cutting, and debris hauling for build-back ready sites.",
+    "phone": "(502) 555-0149",
+    "email": "hello@dismantledemo.com",
+    "address": "Louisville, Kentucky, USA",
+    "locality": "Louisville",
+    "region": "KY",
+    "country": "USA",
+    "logo": "logo.svg",
+    "brandColor": "#c84b56",
+    "brandColorHover": "#ff7a8a"
+  },
+
+  "hero": {
+    "backgroundImage": "images/dismantle-hero.svg",
+    "ctaText": "Schedule a walkthrough",
+    "ctaLink": "#contact"
+  },
+
+  "services": [
+    {
+      "name": "Selective Interior Demolition",
+      "description": "Dust-controlled removal of drywall, ceilings, fixtures, and casework with clean separations for build-back crews."
+    },
+    {
+      "name": "Concrete Cutting & Removal",
+      "description": "Saw-cut slabs, curbs, and pads with rapid debris hauling so re-pours stay on schedule."
+    },
+    {
+      "name": "Roof Tear-Offs",
+      "description": "Protection, staging, and dry-in ready surfaces by end of day for reroofs and repairs."
+    },
+    {
+      "name": "Debris Logistics",
+      "description": "Roll-offs, metal separation, and daily haul-offs that keep sites clear and inspectors happy."
+    }
+  ],
+
+  "contact": {
+    "heading": "Greater Louisville & Southern Indiana",
+    "subheading": "Snap site photos or book a walk-through. Get a same-day plan.",
+    "fields": [
+      {
+        "type": "text",
+        "placeholder": "Your name or company",
+        "required": true
+      },
+      {
+        "type": "email",
+        "placeholder": "hello@dismantledemo.com",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "placeholder": "(502) 555-0149",
+        "required": false
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Scope: interior demo, concrete cut, roof tear-off, hauling",
+        "required": true
+      }
+    ],
+    "submitText": "Request Demo Plan",
+    "formAction": "#"
+  },
+
+  "gallery": {
+    "images": [
+      "images/gallery-1.svg",
+      "images/gallery-2.svg",
+      "images/gallery-3.svg",
+      "images/gallery-4.svg"
+    ]
+  },
+
+  "footer": {
+    "text": "Dismantle Demo Solutions",
+    "year": "2025"
+  },
+
+  "meta": {
+    "title": "Dismantle Demo Solutions | Selective Demolition & Cleanup",
+    "description": "Selective demolition, interior strip-outs, concrete cutting, and debris hauling for construction-ready handoffs.",
+    "keywords": "selective demolition, interior demo, debris hauling, roof tear-off, concrete removal, Louisville demo"
+  }
+}
